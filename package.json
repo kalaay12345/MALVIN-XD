@@ -10,7 +10,7 @@
     "restart": "pm2 restart MALVIN-XD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:EdderBot02/bail",  
+    "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",  
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
