@@ -57,23 +57,27 @@
 
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
 </p>
 
-> 📲 Pair Code Authentication
+> 📲 Pair Code Authentication 1
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvin-session-27hw.onrender.com/pair)
+
+> 📲 Pair Code Authentication 2
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvinxd-pairsession.onrender.com/pair)
 
-> 📱 QR Code Authentication
+> 📱 QR Code Authentication 3
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvinxd-pairsession.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvin-session-27hw.onrender.com/qr)
 
 
 
-> 📲 Starcore pair
+> 📲 Starcore pair 3
 
-[![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
+[![Starcore Session](https://img.shields.io/badge/starcore%20session-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
 
 
@@ -102,7 +106,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </div>
 
 
-
+<a href="https://github.com/XdKing2/MALVIN-BXD/"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-BXD?style=for-the-badge&logo=github&color=4c1&label=Deploy%20Button-version" alt="Fork MALVIN-XD" /></a>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -180,7 +184,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
-### 🛠️ Recommended Hosting Panels
+### 🛠️ VPS / Hosting Panels
 
 <div align="center">
   <table>
@@ -206,8 +210,7 @@ jobs:
   </table>
 </div>
 
-> 💡 Ensure your panel has **at least 1GB RAM** for fast response 
-> 🔧 _Working on MALVIN-XD compatibility with free-tier panel hosts_
+> 🔧 _Fixed panel issues Enjoy...deploy to any free tier servers etc_
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
