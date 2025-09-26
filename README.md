@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/bgfX1qBy/malvin-xd.jpg'/></a>
+<a><img src='https://i.ibb.co/VWt5CXzX/malvin-xd.jpg'/></a>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
@@ -41,7 +41,9 @@
 | Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 
-# MALVIN-XD Setup
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN-XD;MR+MALVIN+KING;THANKS+FOR+USING" alt="Typing SVG" /></a>
+</p>
 
 ### 🚀 Fork the Repository
 
@@ -51,42 +53,46 @@
 
 <a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
 
----
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-### 🔐 Step 2: Get Your Session ID
+<details>
+<summary> 🔐 Step 2: Get Your Session ID</summary>
+ 
 
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
-<p align="left">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
-</p>
-
-> 📲 Pair Code Authentication 1
-
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvin-session-27hw.onrender.com/pair)
-
-> 📲 Pair Code Authentication 2
-
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvinxd-pairsession.onrender.com/pair)
-
-> 📱 QR Code Authentication 3
-
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvin-session-27hw.onrender.com/qr)
+> Get Pair Code (Session ID)
 
 
 
-> 📲 Starcore pair 3
+<p align="left">  
+<a href='https://malvin-session-27hw.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 1-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+</p>  <p align="left">  
+<a href='https://malvinxd-pairsession.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 2-B7000FG?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
+</p>  <p align="left">  
+<a href='https://malvin-session-27hw.onrender.com/qr' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20QR%20Code 3-B700EE?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
+</p>  <p align="left">  
+<a href='https://starcore-pairing.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 4-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>      
+</p>  
 
-[![Starcore Session](https://img.shields.io/badge/starcore%20session-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
+</details>
 
-
+</div>
+<!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 
-## _📡 DEPLOYMENT_
+<details>
+<summary>_📡 DEPLOYMENT_</summary>
+ 
+
 
 <div align="center">
   <table>
@@ -105,66 +111,19 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   </table>
 </div>
 
+</details>
 
-<a href="https://github.com/XdKing2/MALVIN-BXD/"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-BXD?style=for-the-badge&logo=github&color=4c1&label=Deploy%20Button-version" alt="Fork MALVIN-XD" /></a>
-
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
- <h4 align="center"> Workflow</h4>
-<p style="text-align: center; font-size: 1.2em;">
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 
 <details>
-
-<b><strong><summary align="center" style="color: Yello;">Deploy Malvin On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
+<summary>📡 PANEL DEPLOYMENT OPTIONS</summary>
  
-<h8>Copy the workflow codes and then fork the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
-<h3 align-"center"> Important</h3>
-<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-</details> 
-
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
-</p>
-
-## 📡 PANEL DEPLOYMENT OPTIONS
+ **• 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
 
 > Get the latest MALVIN-XD bot zip file for panel-based deployment:
 
@@ -212,13 +171,16 @@ jobs:
 
 > 🔧 _Fixed panel issues Enjoy...deploy to any free tier servers etc_
 
+</details>
+</div>
+<!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
+<details>
+<summary>⚠️ DISCLAIMER</summary>
 
-
-## ⚠️ DISCLAIMER
 
 - ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
@@ -227,19 +189,30 @@ jobs:
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
+</details>
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 
-
-## 💡 CREDITS & CONTRIBUTORS
+<details>
+<summary>💡 CREDITS & CONTRIBUTORS</summary>
+ 
 
 > Built with ❤️ by **Malvin King**
 
 - 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
+</div>
+<!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+</details>
 
 ## 🗃️ PROJECT ARCHITECTS
 
@@ -253,11 +226,16 @@ jobs:
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
+</div>
+<!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🌐 JOIN OUR SUPPORT CHANNELS
+
+<details>
+<summary>🌐 JOIN OUR SUPPORT CHANNELS</summary>
+ 
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
@@ -269,7 +247,7 @@ jobs:
 </p>
 
 
-
+</details>
 </div>
 <!-- Glowing Header -->
 <p align="center">
@@ -280,8 +258,8 @@ jobs:
 
 ```diff
 + Project Status: Active
-! Version: V.1.5.0 Neon Edition
-# License: MIT
+! Version: V.2.0.0 Neon Edition
+# License: Apache
 ```
 
 
@@ -299,8 +277,3 @@ jobs:
 <p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
-
-
-
