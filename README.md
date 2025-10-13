@@ -59,28 +59,24 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<details>
-<summary> 🔐 Step 2: Get Your Session ID</summary>
- 
 
-Authenticate using **one** of the methods below to generate your `Session ID`.
-
-> Get Pair Code (Session ID)
+> ⚠️ **IMPORTANT**: You must fork the [MALVIN-XD repository](https://github.com/XdKing2/MALVIN-XD/fork) first to access session web!
 
 
 
-<p align="left">  
-<a href='https://malvin-session-27hw.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 1-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
-</p>  <p align="left">  
-<a href='https://malvinxd-pairsession.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 2-B7000FG?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
-</p>  <p align="left">  
-<a href='https://malvin-session-27hw.onrender.com/qr' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20QR%20Code 3-B700EE?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
-</p>  <p align="left">  
-<a href='https://starcore-pairing.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code 4-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>      
-</p>  
+Authenticate using the *web button* below to generate your `Session ID`.
+
+### 🌐 Session Web ⤵️
+
+<div align="center">
+
+[![Access Web Portal](https://img.shields.io/badge/🚀_Access_Web_Portal-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://malvin-xd-pair-web.vercel.app)
 
 
-</details>
+> fast Authentication
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://starcore-pair.vercel.app/)
+
 
 </div>
 <!-- Glowing Header -->

@@ -3,7 +3,6 @@
   "version": "2.0.0",
   "description": "The Best WhatsApp Bot Created By Malvin King",
   "main": "index.js",
-    "type": "module",
   "engines": {
     "node": ">=20.x",
     "npm": ">=10.x"
@@ -17,7 +16,6 @@
     "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",
     "@google/genai": "^1.8.0",
     "@google/generative-ai": "^0.24.1",
-    "@vitalets/google-translate-api": "^9.0.0",
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
@@ -49,7 +47,7 @@
     "google-tts-api": "^2.0.2",
     "javascript-obfuscator": "^4.0.0",
     "jsdom": "^20.0.0",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
     "megajs": "^1.1.0",
     "mime-types": "^2.1.35",
     "mongoose": "^8.0.0",
